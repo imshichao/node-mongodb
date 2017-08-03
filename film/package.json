@@ -1,0 +1,25 @@
+{
+  "name": "film",
+  "version": "1.0.0",
+  "description": "test film",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.5",
+    "save-static": "^1.0.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "film",
+    "movie"
+  ],
+  "author": "imshichao",
+  "license": "ISC"
+}
